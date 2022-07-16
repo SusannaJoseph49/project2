@@ -1,0 +1,322 @@
+
+.sidharth{
+    vertical-align: top;
+    display: inline-block;
+}
+.pictext{
+    height: 90px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    width: 400px;
+    margin-left: 150px;
+}
+.picdiv{
+    margin-top: 30px;
+    display: inline-block;
+}
+.pic{
+    width: 35px;
+}
+.alcherconn{
+    display: inline-block;
+}
+.grey{
+    color:rgb(151, 150, 150);
+    background: none;
+ }
+ .red{
+    color: rgb(255, 90, 60);
+    background: none;
+ }
+ .alcherconntext{
+    
+    font-weight: 500;
+    font-family: "M PLUS Rounded 1c";
+    font-size: 30px;
+ }
+ .susanna
+{
+        vertical-align: top;
+        display: inline-block;
+}
+.box
+{
+        margin-top: 150px;
+        width: 320px;
+        border: none;
+        margin-left: 400px;
+        height: 480px;
+        box-shadow: 0 0 10px rgb(181, 180, 180);
+        border-radius: 15px;
+}
+.boxup
+{
+        width: 320px;
+        height: 140px;
+        background-image: linear-gradient(to right, rgb(250, 163, 148) , rgb(255, 90, 60));
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+}
+.myprof{
+    color: white;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.myprofdiv{
+    display: inline-block;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.logoutbutton{
+    margin-left: 100px;
+    padding-top: 44px;
+    display: inline-block;
+    width:30px;
+    height: 80px;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+.cnpbox{
+    margin-top: 40px;
+    width: 320px;
+    border: none;
+    margin-left: 400px;
+    height: 60px;
+    box-shadow: 0 0 10px rgb(181, 180, 180);
+    border-radius: 15px;
+}
+.profilepdiv{
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.profilep{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.usern{
+    margin-top: 55px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.pname{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+.text{
+    vertical-align: top;
+    display: inline-block;
+}
+.textadiv{
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 300px;
+}
+.texta{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 15px;
+}
+.plusdiv{
+    width: 320px;
+    height: 50px;
+
+}
+.plusbut{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0,15s;
+    border-color: white;
+    border-style: solid ;
+    background-color: white;
+}
+.plus-but{
+    margin-left: 3px;
+}
+.fa-plus-circle{
+    margin-top: 0px;
+}
+.plustext{
+    vertical-align: top;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 15px;
+}
+.bookdiv{
+    width: 320px;
+   height: 50px;
+
+}
+.bookbut{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0,15s;
+    border-color: white;
+    border-style: solid ;
+    background-color: white;
+}
+.bkm{
+    margin-left: 5px;
+}
+.fa-bookmark-o{
+    margin-top: 0px;
+}
+.booktext{
+    vertical-align: top;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 15px;
+}
+.plusdiv1{
+    width: 320px;
+    height: 50px;
+
+}
+.plusbut1{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0,15s;
+    border-color: white;
+    border-style: solid ;
+    background-color: white;
+}
+.plus-but1{
+    margin-left: 3px;
+}
+
+.plustext1{
+    vertical-align: top;
+    padding-bottom: 10px;
+    margin-top: 25px;
+    margin-left: 20px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 15px;
+}
+.cnptext{
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+.box1{
+        margin: 0%;
+        width: 450px;
+        margin-top: 50px;
+        border: none;
+        margin-left: 150px;
+        height: 560px;
+        box-shadow: 0 0 10px rgb(181, 180, 180);
+        border-radius: 15px;
+}
+.box2{
+        margin-top: 30px;
+        margin-left: 150px;
+        margin-bottom: 50px;
+        width: 450px;
+        height: 40px;
+        border-color: rgb(254, 137, 117) ;
+        border-radius: 5px;
+        border-style: solid ;
+        background-color: white;
+        cursor: pointer;
+        transition: background-color 0.15s, color 0,15s;
+}
+.sharetext{
+        margin: 0px 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(254, 137, 117);
+        font-size: 20px;
+}
+.box2:hover{
+        background-color:rgb(254, 137, 117) ;
+}
+.sharetext:hover{
+        color: white;
+}
+.imgtxt{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 50px;
+    margin-top: 40px;
+    color:rgb(167, 164, 164) ;
+}
+.box11{
+    margin-left: 50px;
+    padding-top: 20px;
+    height: 200px;
+    width: 350px;
+    border-color: rgb(207, 205, 205);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+}
+.captxt{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-top: 40px;
+    color:rgb(167, 164, 164) ;
+
+}
+.box12{
+    margin-left: 50px;
+    padding-top: 20px;
+    height: 50px;
+    width: 350px;
+    border-color: rgb(207, 205, 205);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.input{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.unenter{
+    border: none;
+}
+.placeholder{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box11:active{
+    border-color: black;
+}
+.current-location{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.findloc{
+    padding-left: 0;
+    border: none;
+    background-color: white;
+}
